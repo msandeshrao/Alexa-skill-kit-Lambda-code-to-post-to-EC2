@@ -1,0 +1,22 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "Answer",
+          "type": "LIST_OF_ANSWERS"
+        }
+      ],
+      "intent": "AnswerIntent"
+    },
+    {
+      "slots": [
+        {
+          "name": "Answers",
+          "type": "LIST_OF_ANSWERS_STOP"
+        }
+      ],
+      "intent": "AnswerOnlyIntent"
+    }
+  ]
+}
