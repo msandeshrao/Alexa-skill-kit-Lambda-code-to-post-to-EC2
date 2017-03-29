@@ -4,7 +4,7 @@
       "slots": [
         {
           "name": "Answer",
-          "type": "LIST_OF_ANSWERS"
+          "type": <Any_type_name_here>
         }
       ],
       "intent": "AnswerIntent"
@@ -13,7 +13,7 @@
       "slots": [
         {
           "name": "Answers",
-          "type": "LIST_OF_ANSWERS_STOP"
+          "type": <Any_type_name_here>
         }
       ],
       "intent": "AnswerOnlyIntent"
